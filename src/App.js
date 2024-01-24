@@ -7,9 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h2>Hello World</h2>
+        <h2>Welcome to Achraf's React App</h2>
         <p>
-          Welcome All Buddies to Buddy Webinar!!!
+          If you are seeing this page, the pipeline has successfully run!
+        </p>
+        <p>It included multiple components of the AWS CI/CD stack (CodeCommit, CodeBuild, CodeDeploy and CodePipeline)
         </p>
       </header>
     </div>
